@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ecemesraozturk
-- 👀 I’m interested in machine learning and back end development
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript
+- 🙋 Hi, I’m @ecemesraozturk
+- 👀 I’m interested in Machine Learning 
+- 🌱 I’m currently learning Python
 - 📫 How to reach me https://www.linkedin.com/in/ecemesraozturk/
 
 <!---
