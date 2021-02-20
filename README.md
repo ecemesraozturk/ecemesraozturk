@@ -1,6 +1,6 @@
 - 🙋 Hi, I’m @ecemesraozturk
-- 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning Python
+- 💻 I’m interested in Machine Learning 
+- ✏️ I’m currently learning Python
 - 📫 How to reach me https://www.linkedin.com/in/ecemesraozturk/
 
 <!---
