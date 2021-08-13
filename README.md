@@ -1,5 +1,5 @@
 - 🙋 Hi, I’m @ecemesraozturk 
-- ✏️ I’m currently learning Python, JavaScript
+- ✏️ I’m currently learning Python, SQL
 - 📫 How to reach me https://www.linkedin.com/in/ecemesraozturk/
 
 <!---
