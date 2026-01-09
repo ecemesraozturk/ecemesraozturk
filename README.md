@@ -1,4 +1,4 @@
-- Hi, I’m @ecemesraozturk 
+- I’m @ecemesraozturk 
 - I’m currently learning Python, SQL
 - How to reach me https://www.linkedin.com/in/ecemesraozturk/
 - My focus has been in fields of Product Management. 
